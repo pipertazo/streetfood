@@ -1,0 +1,35 @@
+<svg width="500" height="500" viewBox="0 0 500 500" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="500" height="500" rx="28" fill="#1B1B1B"/>
+  <rect x="54" y="54" width="392" height="392" rx="18" fill="#FFF8EF"/>
+  <rect x="90" y="90" width="82" height="82" fill="#111111"/>
+  <rect x="106" y="106" width="50" height="50" fill="#FFF8EF"/>
+  <rect x="328" y="90" width="82" height="82" fill="#111111"/>
+  <rect x="344" y="106" width="50" height="50" fill="#FFF8EF"/>
+  <rect x="90" y="328" width="82" height="82" fill="#111111"/>
+  <rect x="106" y="344" width="50" height="50" fill="#FFF8EF"/>
+  <rect x="224" y="92" width="28" height="28" fill="#111111"/>
+  <rect x="262" y="92" width="28" height="28" fill="#111111"/>
+  <rect x="224" y="132" width="66" height="28" fill="#111111"/>
+  <rect x="204" y="204" width="28" height="28" fill="#111111"/>
+  <rect x="244" y="204" width="28" height="28" fill="#111111"/>
+  <rect x="284" y="204" width="28" height="28" fill="#111111"/>
+  <rect x="324" y="204" width="28" height="28" fill="#111111"/>
+  <rect x="164" y="244" width="28" height="28" fill="#111111"/>
+  <rect x="204" y="244" width="28" height="28" fill="#111111"/>
+  <rect x="284" y="244" width="28" height="28" fill="#111111"/>
+  <rect x="324" y="244" width="28" height="28" fill="#111111"/>
+  <rect x="364" y="244" width="28" height="28" fill="#111111"/>
+  <rect x="124" y="284" width="28" height="28" fill="#111111"/>
+  <rect x="204" y="284" width="28" height="28" fill="#111111"/>
+  <rect x="244" y="284" width="28" height="28" fill="#111111"/>
+  <rect x="324" y="284" width="28" height="28" fill="#111111"/>
+  <rect x="364" y="284" width="28" height="28" fill="#111111"/>
+  <rect x="204" y="324" width="28" height="28" fill="#111111"/>
+  <rect x="244" y="324" width="28" height="28" fill="#111111"/>
+  <rect x="284" y="324" width="28" height="28" fill="#111111"/>
+  <rect x="324" y="324" width="28" height="28" fill="#111111"/>
+  <rect x="164" y="364" width="28" height="28" fill="#111111"/>
+  <rect x="244" y="364" width="28" height="28" fill="#111111"/>
+  <rect x="364" y="364" width="28" height="28" fill="#111111"/>
+  <text x="250" y="472" text-anchor="middle" fill="#BFB7AB" font-family="Arial, sans-serif" font-size="22">QR Placeholder</text>
+</svg>
